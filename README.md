@@ -20,7 +20,7 @@
 12. [Auto-Save & Recovery](#12-auto-save--recovery)
 13. [Tips for Best Results](#13-tips-for-best-results)
 14. [Troubleshooting](#14-troubleshooting)
-15. [Contact & License](#15-contact--license)
+15. [Contact](#15-contact)
 
 ---
 
@@ -51,6 +51,8 @@
 | Storage | 50 MB free |
 
 ---
+![Screenshot](screenshots/Screenshot_1.png)
+---
 
 ## 3. Launching the Application
 
@@ -59,9 +61,11 @@ Double-click **`Outlook Email Verifier.exe`** .
 On first launch the application will:
  Open the main window with two tabs in the sidebar: **Configure** and **Results**.
 
-
+---
+![Screenshot](screenshots/Screenshot_5.png)
 ---
 
+---
 ## 4. Step 1 — Preparing Your Email List
 
 Navigate to the **Configure** tab. The left panel is the **Email Input** panel.
@@ -147,7 +151,8 @@ How long each request waits for a response before marking the email as an error.
 | **5 s** | Fast proxies, good connection |
 | **15 s** *(default)* | General use |
 | **30 s** | Slow or distant proxies |
-
+---
+![Screenshot](screenshots/Screenshot_3.png)
 ---
 
 ## 6. Step 3 — Setting Up Proxies (Optional)
@@ -189,7 +194,8 @@ Use the dropdown to select the proxy protocol:
 | **HTTPS** | HTTPS-specific proxies (treated as HTTP internally) |
 | **SOCKS5** | SOCKS5 proxies; best for anonymity and firewall traversal |
 | **SOCKS4** | Legacy SOCKS4 proxies |
-
+---
+![Screenshot](screenshots/Screenshot_4.png)
 ---
 
 ### Testing Proxies
@@ -206,7 +212,8 @@ Use the dropdown to select the proxy protocol:
 
 - **OK** — saves all current proxies and closes the dialog.
 - **Cancel** — discards any changes made since the dialog was opened and restores the previous proxy list.
-
+---
+![Screenshot](screenshots/Screenshot_2.png)
 ---
 
 ## 7. Step 4 — Starting Verification
@@ -219,6 +226,8 @@ Once your list is loaded and settings are configured:
 
 To **stop** at any time, click the **Stop** button that appears during verification. Results already collected are preserved.
 
+---
+![Screenshot](screenshots/Screenshot_6.png)
 ---
 
 ## 8. Step 5 — Reading the Results
